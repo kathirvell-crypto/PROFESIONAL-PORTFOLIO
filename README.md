@@ -8,7 +8,7 @@ Skills
 
 Programming Languages: C++
 
-Technical Knowledge: Computer Networking, Network Security, Programming Fundamentals, C++
+Technical Knowledge: Computer Networking, Network Security, Programming Fundamentals
 
 Soft Skills: Problem-Solving, Critical Thinking, Teamwork, Adaptability
 
