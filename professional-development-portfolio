@@ -6,7 +6,7 @@ I am a Computer Science undergraduate at Universiti Teknologi Malaysia (UTM), sp
 
 Skills
 
-Programming Languages: C++, Java, Python
+Programming Languages: C++
 
 Technical Knowledge: Computer Networking, Network Security, Programming Fundamentals, C++
 
